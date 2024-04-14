@@ -2,12 +2,12 @@
 
 To run each section of code, you will need to install the following libraries. Install commands have been provided for use in the command prompt for Windows.
 
-Step 1 - Install Python\
+## Step 1 - Install Python\
 You must begin by installing a compatible version of Python. In this case, the compatible version of Python is 3.11.X. The code will automatically throw an assertion error if you are not using this compatible version. 
 
 Install python by going to (https://www.python.org/downloads/) and downloading the correct version. Make sure to add Python to the path.
 
-Step 2 - Install General Packages\
+## Step 2 - Install General Packages\
 To run this code, you will need the following packages. Note that some packages are already included in the Python standard installation.
 
 Bundled with Python:\
@@ -27,7 +27,7 @@ pip install matplotlib
 symspellpy\
 pip install symspellpy
 
-Step 3 - Install OCR Packages\
+## Step 3 - Install OCR Packages\
 Packages are:\
 paddlepaddle\
 paddleocr
