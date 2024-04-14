@@ -46,6 +46,6 @@ Use the following link (https://www.paddlepaddle.org.cn/documentation/docs/en/in
 ## Step 4 - Preparing your Task
 Now it is time to use the code.
 
-<[!NOTE]
-<Note that if your machine does not possess a GPU, you will need to change a setting here. 
+> [!NOTE]
+> Note that if your machine does not possess a GPU, you will need to change a setting here. 
 
