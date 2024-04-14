@@ -2,34 +2,34 @@
 
 In order to run each section of code you will need to install the following libraries. Install commands have been provided for use in command prompt for Windows.
 
-Step 1 - Install Python
+Step 1 - Install Python\
 You must begin by installing a compatible version of Python. In this case the compatible version of Python is 3.11.X. The code will automatically throw an assertion error if you ware not using this compatabile version. 
 
 Install python by going to (https://www.python.org/downloads/) and downloading the correct version. Make sure to add python to path.
 
-Step 2 - Install General Packages
+Step 2 - Install General Packages\
 In order to run this code you will need the following packages. Note some packages are already included in python standard installation.
 
 Bundled with Python:
-OS
+OS\
 CSV
 
-Not Included with Python:
-pandas
+Not Included with Python:\
+pandas\
 pip install pandas
 
-numpy
+numpy\
 pip install numpy
 
-matplotlib
+matplotlib\
 pip install matplotlib
 
-symspellpy
+symspellpy\
 pip install symspellpy
 
-Step 3 - Install OCR Packages
-Packages are:
-paddlepaddle
+Step 3 - Install OCR Packages\
+Packages are:\
+paddlepaddle\
 paddleocr
 
 Use the following link (https://www.paddlepaddle.org.cn/documentation/docs/en/install/index_en.html) and follow the step by step tutorial in order to properly install this. Note if your machine does not possess a gpu you will need to change a setting. 
