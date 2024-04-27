@@ -47,6 +47,7 @@ Use the following link (https://www.paddlepaddle.org.cn/documentation/docs/en/in
 Now it is time to use the code. The code is split up into 2 main sections. The first section is the Optical Character Recognition. In order to use this section some work will need to be done initially. You will need several folders (the git project is setup with the folders, though images will need to be loaded in from here). 
 
 > [!NOTE]
-> In total you will need at least 3 folders at the same level as the code file. 1 to store the raw images, 1 to store the OCR outputs, and 1 to store the visualized images. 
+> In total you will need a single folders at the same level as the code file. This folder must store the raw images from receipt scans and all image/images of the associated credit card statement(s). 
 
-In order to run the code you need to modify the input and output directories using either absolute or relative pathing (we suggest relative). 
+## Step 5 - Executing the Code
+
