@@ -44,8 +44,9 @@ Use the following link (https://www.paddlepaddle.org.cn/documentation/docs/en/in
 > You need to install CUDA and cuDNN from NVIDIA if you plan on running this using a GPU. 
 
 ## Step 4 - Preparing your Task
-Now it is time to use the code.
+Now it is time to use the code. The code is split up into 2 main sections. The first section is the Optical Character Recognition. In order to use this section some work will need to be done initially. You will need several folders (the git project is setup with the folders, though images will need to be loaded in from here). 
 
-> [!CAUTION]
-> Note that if your machine does not possess a GPU, you will need to change a setting here. 
+> [!NOTE]
+> In total you will need at least 3 folders at the same level as the code file. 1 to store the raw images, 1 to store the OCR outputs, and 1 to store the visualized images. 
 
+In order to run the code you need to modify the input and output directories using either absolute or relative pathing (we suggest relative). 
