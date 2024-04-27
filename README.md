@@ -12,6 +12,7 @@ To run this code, you will need the following packages. Note that some packages 
 ### Step 2.1 - Bundled with Python:
 **OS**\
 **CSV**
+**RE**
 
 ### Step 2.2 - Not Included with Python (Manual Install Required):
 **pandas**\
