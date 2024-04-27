@@ -52,4 +52,7 @@ Now it is time to use the code. The code is split up into 2 main sections. The f
 > In total you will need a single folder at the same level as the code file. This folder must store the raw images from receipt scans and all image/images of the associated credit card statement(s). 
 
 ## Step 5 - Executing the Code
+Presuming you setup everything correctly all code should be immediately executable upon download.
+> [!NOTE]
+> One line to note is that the dictionary is currently set to be within a subfolder also called dictionary. You can change this line so long as it links to the existing dictionary in the GitHub folder Dictionary.
 
