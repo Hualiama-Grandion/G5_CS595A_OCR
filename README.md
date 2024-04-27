@@ -4,7 +4,7 @@ The following is a step-by-step list of instructions in order to successfully us
 ## Step 1 - Install Python
 You must begin by installing a compatible version of Python. In this case, the compatible version of Python is 3.11.X. The code will automatically throw an assertion error if you are not using this compatible version. 
 
-Install python by going to (https://www.python.org/downloads/) and downloading the correct version. Make sure to add Python to the path.
+Install python by going to ([https://www.python.org/downloads/](url)) and downloading the correct version. Make sure to add Python to the path.
 
 ## Step 2 - Install General Packages
 To run this code, you will need the following packages. Note that some packages are already included in the Python standard installation. Installation commands are provided in two formats. The first command is meant for use with cmd prompt and the second within the terminal in an editor such as VSCode. 
